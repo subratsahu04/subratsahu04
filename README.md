@@ -43,9 +43,9 @@ Currently focused on:
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=SubratKumarSah&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=SubratKumarSah&theme=dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SubratKumarSah&theme=dark&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=subratsahu04&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=subratsahu04&theme=dark&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=subratsahu04&theme=dark&hide_border=true&layout=compact)
 
 ---
 
@@ -53,5 +53,4 @@ Currently focused on:
 > *"Without data, you're just another person with an opinion."*  
 > — **W. Edwards Deming**
 
-<!-- Designed with ❤️ by Subrat Kumar Sah -->
-
+<!-- Designed with ❤️ by Subrat Kumar Sahu -->
