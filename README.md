@@ -48,7 +48,7 @@ Currently focused on:
 > If any of these show an error, it's usually a temporary issue from the GitHub Stats API. Refresh later!
 
 ![Subrat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subratsahu04&show_icons=true&theme=dark&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subratsahu04&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=subratsahu04&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subratsahu04&layout=compact&theme=dark&hide_border=true)
 
 ---
