@@ -13,7 +13,7 @@ Currently focused on:
 
 ---
 
-## 🌐 Connect with Me:
+## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subrat-kumar-sah)
 
 ---
@@ -43,9 +43,12 @@ Currently focused on:
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=subratsahu04&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=subratsahu04&theme=dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=subratsahu04&theme=dark&hide_border=true&layout=compact)
+
+> If any of these show an error, it's usually a temporary issue from the GitHub Stats API. Refresh later!
+
+![Subrat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subratsahu04&show_icons=true&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=subratsahu04&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subratsahu04&layout=compact&theme=dark&hide_border=true)
 
 ---
 
