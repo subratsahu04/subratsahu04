@@ -1,7 +1,7 @@
 # 💫 About Me
 Welcome to my GitHub! 🎯  
 
-Hey there! I'm **Subrat Kumar Sah**, a 3rd-year Computer Science student passionate about **Data Science** and everything data-driven. I love exploring datasets, extracting insights, and creating visual stories that matter.
+Hey there! I'm **Subrat Kumar Sahu**, a 3rd-year Computer Science student passionate about **Data Science** and everything data-driven. I love exploring datasets, extracting insights, and creating visual stories that matter.
 
 Currently focused on:
 - 📊 **Exploratory Data Analysis (EDA)** and **Data Cleaning**
